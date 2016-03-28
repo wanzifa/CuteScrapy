@@ -11,3 +11,6 @@ Python爬虫框架Scrapy
 >爬虫的办法有很多，除了框架以外，我们还可以利用一些优秀的工具，比如BeautifulSoup和requests结合，但是成熟的框架必定有值得我们学习的地方，熟悉一下是很有必要的。^_^</br>
 ####资源传送门：[Scrapy1.0文档](https://scrapy-chs.readthedocs.org/zh_CN/1.0/)
 
+###03.28更新
+>今天效率比较高，代码部分基本已经更完了.
+>资源传送门：[Xpath教程]:('http://www.w3school.com.cn/xpath/')
