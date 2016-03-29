@@ -13,4 +13,4 @@ Python爬虫框架Scrapy
 
 ###03.28更新
 >今天效率比较高，代码部分基本已经更完了.
->资源传送门：[Xpath教程]:(http://www.w3school.com.cn/xpath/)
+>资源传送门：[Xpath教程](http://www.w3school.com.cn/xpath/)
